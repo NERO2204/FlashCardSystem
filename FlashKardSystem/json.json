@@ -1,0 +1,40 @@
+{
+"word1": {
+    "stranger":"eat",
+    "mean":"enni"
+},
+"word2": {
+    "stranger":"report",
+    "mean":"jelentés"
+    
+},
+"word3": {
+    "stranger":"look",
+    "mean":"nézd"
+    
+},
+"word4": {
+    "stranger":"do",
+    "mean":"csinál"
+    
+}
+,"word5": {
+    "stranger":"yes",
+    "mean":"igen"
+},
+"word6": {
+    "stranger":"no",
+    "mean":"nem"
+    
+},
+"word7": {
+    "stranger":"but",
+    "mean":"de"
+    
+},
+"word8": {
+    "stranger":"kedvel",
+    "mean":"like"
+    
+}
+}
